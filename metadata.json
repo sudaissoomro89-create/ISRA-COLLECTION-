@@ -1,0 +1,6 @@
+{
+  "name": "ISRA Collection - Trendy Clothes, Two-Piece Sets & Kurtis",
+  "description": "Chic ready-to-wear fashion boutique for girls and young women aged 15-35 featuring trendy co-ord two-piece sets, printed and embroidered kurtis, and modern fusion pret.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
